@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @harimtim
 - 👀 I’m interested in: Applications and Software about everything, especially pentesting
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Python 🐍
 - 📫 How to reach me: Discord @harimtim.xyz
